@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Golla</h1>
 <h3 align="center">Statistical and Inferential Data Analyst</h3>
 
+<img align="right" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance analystical skills**
